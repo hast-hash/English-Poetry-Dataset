@@ -1,0 +1,55 @@
+﻿line,text,category
+1,  In Xanadu did Kubla Khan,a
+2,  A stately pleasure-dome decree:,a
+3,"  Where Alph, the sacred river, ran",b
+4,  Through caverns measureless to man,b
+5,    Down to a sunless sea.                                             ,b
+6,  So twice five miles of fertile ground,"c,i"
+7,  With walls and towers were girdled round:,"c,I,k"
+8,"  And there were gardens bright with sinuous rills,",d
+9,  Where blossomed many an incense-bearing tree;,d
+10,"  And here were forests ancient as the hills,                        ",d
+11,  Enfolding sunny spots of greenery.,d
+12,  But oh! that deep romantic chasm which slanted,
+13,  Down the green hill athwart a cedarn cover!,
+14,  A savage place! as holy and enchanted,
+15,  As e'er beneath a waning moon was haunted                           ,
+16,  By woman wailing for her demon-lover!,
+17,"  And from this chasm, with ceaseless turmoil seething,",
+18,"  As if this earth in fast thick pants were breathing,",
+19,  A mighty fountain momently was forced:,e
+20,  Amid whose swift half-intermitted burst                             ,e
+21,"  Huge fragments vaulted like rebounding hail,",
+22,  Or chaffy grain beneath the thresher's flail:,
+23,  And 'mid these dancing rocks at once and ever,e
+24,  It flung up momently the sacred river.,e
+25,  Five miles meandering with a mazy motion                            ,f
+26,"  Through wood and dale the sacred river ran,",f
+27,"  Then reached the caverns measureless to man,",b
+28,  And sank in tumult to a lifeless ocean:,b
+29,  And 'mid this tumult Kubla heard from far,
+30,  Ancestral voices prophesying war!                                   ,
+31,    The shadow of the dome of pleasure,
+32,    Floated midway on the waves;,
+33,    Where was heard the mingled measure,f
+34,    From the fountain and the caves.,
+35,"  It was a miracle of rare device,                                    ",
+36,  A sunny pleasure-dome with caves of ice!,j
+37,    A damsel with a dulcimer,
+38,    In a vision once I saw:,
+39,"    It was an Abyssinian maid,",g
+40,"    And on her dulcimer she played,                                  ",g
+41,    Singing of Mount Abora.,"g,d,h"
+42,    Could I revive within me,
+43,"    Her symphony and song,",
+44,"    To such a deep delight 'twould win me,",
+45,"  That with music loud and long,                                      ",
+46,"  I would build that dome in air,",
+47,  That sunny dome! those caves of ice!,j
+48,"  And all who heard should see them there,",
+49,"  And all should cry, Beware! Beware!",
+50,"  His flashing eyes, his floating hair!",
+51,"  Weave a circle round him thrice,",
+52,"  And close your eyes with holy dread,",
+53,"  For he on honey-dew hath fed,",h
+54,  And drunk the milk of Paradise.,h
